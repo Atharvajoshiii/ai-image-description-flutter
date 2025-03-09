@@ -1,17 +1,18 @@
-# aiimagetotext
+# AI Image to Text  
 
-Put an image or take a photo , ai will generate description for you 
+AI-powered app that generates descriptions from images. Simply upload an image or take a photo, and AI will analyze it to generate a meaningful description.  
 
-![AppImage](image/image.png)
+## 📸 Features  
+- Upload an image or take a photo directly.  
+- AI automatically generates an accurate description.  
+- Easy-to-use interface with fast processing.  
 
-install dependencies
+## 🖼️ App Preview  
+![App Preview](image/image.png)  
 
-'''
+## 🚀 Installation  
+
+### 1️⃣ Install Dependencies  
+Run the following command to install all required dependencies:  
+```sh
 flutter pub get
-'''
-
-start your app 
-
-'''
-flutter run
-'''
